@@ -17,7 +17,7 @@
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including Java, Python, JavaScript, HTML/CSS, and C++. I am skilled in frameworks and tools such as React.js, Node.js, Express.js, MongoDB, and Docker.
 
-🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella, exploring the outdoors, and spending time with cats. 🐈🥰 
+🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella🎵, exploring the outdoors🧗, and spending time with cats. 🐈🥰 
 
 🌱 I deeply appreciate everthing I have: the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 🌍🎶🎬💖
 
