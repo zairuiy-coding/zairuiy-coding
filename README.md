@@ -3,25 +3,36 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zairuiy-coding" alt="zairuiy-coding" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=zairuiy-coding" alt="zairuiy-coding" /> -->
   </a> 
 </p>
 
-- 🔭 I’m currently working on **building data ingestion infrastructure to serve queries during live trading @Scifecap**
-- 🌱 I’m currently learning **Machine Learning by Andrew Ng**
-- 📫 How to reach me: **zairuiy@seas.upenn.edu**
-- ⚡ Fun fact: **I love A Cappella 🎤, the outdoors 🌳, and cats 🐈🥰**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/zairui-yang" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zairui yang" height="30" width="40" />
-  </a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
+🎓 Hi, my name is Zairui Yang. I'm a software engineer with a strong foundation in web and full-stack development. I am currently pursuing my MSc in Computer and Information Technology at the University of Pennsylvania (graduating in May 2025), 🏫 where I have excelled in courses such as Programming for the Web, Data Structures and Software Design, and Database & Information Systems. 📚
 
-<h4>Languages</h4>
+💼 My experience includes implementing high-frequency live crypto-trading data systems at SciFeCap, 📈 developing efficient Django APIs, and leading front-end development projects at Geward. 🌐 I am passionate about creating efficient, scalable, and user-friendly software solutions. 🚀 My goal is to contribute to innovative projects that make a real impact. 🌟
+
+💻 I enjoy contributing to open source projects and have experience with a wide range of technologies, including Java, Python, C/C++, JavaScript, HTML/CSS, Assembly, and Swift. I am skilled in various frameworks and tools such as React.js, Node.js, Express.js, Next.js, TypeScript, Tailwind, Bootstrap, MongoDB, MySQL, Oracle, PostgreSQL, Neo4j, Figma, AWS, Cypress, Docker, Git, JUnit, Powershell, and Heroku.
+
+🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella, exploring the outdoors, and spending time with cats. 🐈🥰
+
+---
+
+## 🏆 Achievements
+
+- 🥇 2nd Place @ MCIT Hackathon 2024
+- 🏆 Best Beginner Hack @ FemmeHack 2024
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-yang) or check out my [GitHub](https://github.com/zairuiy-coding).
+
+---
+
+## 💻 Skills
+
+### Languages
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
@@ -35,7 +46,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
 
-<h4>Frontend</h4>
+### Frontend
 <p align="left"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
@@ -50,7 +61,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h4>Backend</h4>
+### Backend
 <p align="left"> 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> 
@@ -58,7 +69,7 @@
   <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" />
 </p>
 
-<h4>Databases</h4>
+### Databases
 <p align="left"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
@@ -69,20 +80,22 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
-<h4>Cloud</h4>
+### Cloud
 <p align="left"> 
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </p>
 
-<h4>Other Tools</h4>
+### Other Tools
 <p align="left"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
+
+## 📊 Stats
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=zairuiy-coding&show_icons=true&locale=en" alt="zairuiy-coding" />
@@ -94,4 +107,15 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zairuiy-coding&show_icons=true&locale=en&layout=compact" alt="zairuiy-coding" />
+</p>
+
+---
+
+## 🔗 Links
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/zairui-yang" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
