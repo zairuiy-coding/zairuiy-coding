@@ -99,17 +99,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
 
 ## 📊 Stats
 
-<p align="left"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=zairuiy-coding&show_icons=true&locale=en" alt="zairuiy-coding" /> -->
+<!-- Profile Details and Top Languages Cards Side by Side -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zairuiy-coding&theme=default" alt="Profile Details" style="width: 49%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zairuiy-coding&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 49%; display: inline-block;" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zairuiy-coding&" alt="zairuiy-coding" />
+<!-- Stats and Productive Time Cards Side by Side -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zairuiy-coding&theme=default" alt="Stats" style="width: 49%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zairuiy-coding&theme=default&utcOffset=8" alt="Productive Time" style="width: 49%; display: inline-block;" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zairuiy-coding&show_icons=true&locale=en&layout=compact" alt="zairuiy-coding" />
-</p>
 
 ---
 
