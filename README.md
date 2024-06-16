@@ -19,7 +19,7 @@
 
 🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella, exploring the outdoors, and spending time with cats. 🐈🥰 
 
-🌱 I deeply appreciate everthing I have, the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 👭🌍🎶🎬💖
+🌱 I deeply appreciate everthing I have: the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 🌍🎶🎬💖
 
 ---
 
@@ -100,7 +100,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
 ## 📊 Stats
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=zairuiy-coding&show_icons=true&locale=en" alt="zairuiy-coding" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=zairuiy-coding&show_icons=true&locale=en" alt="zairuiy-coding" /> -->
 </p>
 
 <p align="left">
