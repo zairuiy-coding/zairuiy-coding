@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Zairui Yang</h1>
-<h3 align="center">Aspiring Software Engineer from the University of Pennsylvania</h3>
+<table>
+  <tr>
+    <td>
+      <h1 align="center">Hi 👋, I'm Zairui Yang</h1>
+      <h3 align="center">Aspiring Software Engineer from the University of Pennsylvania</h3>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
