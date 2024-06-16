@@ -105,6 +105,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
 
 ---
 
+## 📚 Project Catalog
+
+Check out my pinned repos for the projects I build. (list continuously updating)
+
+- [Task2Calendar](https://github.com/zairuiy-coding/mcit_hackathon_TaskToCalendar): A Chrome Extension to clip assignment tasks from web pages directly to your calendar.
+- [FindFlora](https://github.com/zairuiy-coding/FindFlora): A Java-based application providing personalized flower recommendations using machine learning.
+- [TimeToGoal](https://github.com/zairuiy-coding/TimeToGoal): An iOS app combining short-term task planning and long-term goal tracking to help users stay focused.
+
+
 ## 📊 Stats
 
 <!-- Profile Details and Top Languages Cards Side by Side -->
