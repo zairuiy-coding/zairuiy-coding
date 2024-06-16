@@ -24,11 +24,12 @@
 
 💼 My experience includes implementing high-frequency live crypto-trading data systems at **SciFeCap**, developing efficient **Django APIs**, and leading front-end development projects at **Geward**. I am dedicated to creating efficient, scalable, and user-friendly software solutions. 🚀 My goal is to contribute to innovative projects that make a real impact. 🌟
 
-💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**.
+💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
+
 
 🎵 Outside the tech world, I enjoy a variety of hobbies, including A Cappella, exploring the outdoors⛰️, photography📷, and spending time with cats. 🐈🥰 
 
-🌱 I deeply appreciate everything I have: the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 🌍🎶🎬💖
+🌱 I deeply appreciate everything I have: the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 👨‍👩‍👧‍👦🎶🎬💖
 
 ---
 
