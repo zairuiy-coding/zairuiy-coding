@@ -109,10 +109,22 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
 
 Check out my pinned repos for the projects I build. (list continuously updating)
 
-- [Task2Calendar](https://github.com/zairuiy-coding/mcit_hackathon_TaskToCalendar): A Chrome Extension to clip assignment tasks from web pages directly to your calendar.
-- [FindFlora](https://github.com/zairuiy-coding/FindFlora): A Java-based application providing personalized flower recommendations using machine learning.
-- [TimeToGoal](https://github.com/zairuiy-coding/TimeToGoal): An iOS app combining short-term task planning and long-term goal tracking to help users stay focused.
+### 🚀 Hackathon Winners
+- **[Task2Calendar](https://github.com/zairuiy-coding/mcit_hackathon_TaskToCalendar)**: A Chrome Extension to clip assignment tasks from web pages directly to your calendar.
+- **[TimeToGoal](https://github.com/zairuiy-coding/TimeToGoal)**: An iOS app combining short-term task planning and long-term goal tracking to help users stay focused.
 
+### ☕ Java Projects
+- **[FindFlora](https://github.com/zairuiy-coding/FindFlora)**: A Java-based application providing personalized flower recommendations using machine learning.
+
+### 🌐 Full-Stack Development
+- **[Ufogram](https://github.com/zairuiy-coding/ufogram)**: An Instagram Full-Stack Clone built with React and Node.js.
+- **[IMDB Full-Stack Clone](https://github.com/zairuiy-coding/CIS550-Project-Group-48)**: A comprehensive IMDB clone with advanced search and optimized performance.
+
+### 🎮 Miscellaneous Projects
+- **[Invaders](https://github.com/zairuiy-coding/invaders)**: A terminal arcade game developed with Rust.
+- **[Django Online Course App](https://github.com/zairuiy-coding/Django_online_course_app)**: An online course application developed using Django.
+
+---
 
 ## 📊 Stats
 
