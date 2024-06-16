@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zairui Yang</h1>
-<h3 align="center">A passionate software engineer from the University of Pennsylvania</h3>
+<h3 align="center">Aspiring Software Engineer from the University of Pennsylvania</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,9 +15,11 @@
 
 💼 My experience includes implementing high-frequency live crypto-trading data systems at SciFeCap, 📈 developing efficient Django APIs, and leading front-end development projects at Geward. 🌐 I am passionate about creating efficient, scalable, and user-friendly software solutions. 🚀 My goal is to contribute to innovative projects that make a real impact. 🌟
 
-💻 I enjoy contributing to open source projects and have experience with a wide range of technologies, including Java, Python, C/C++, JavaScript, HTML/CSS, Assembly, and Swift. I am skilled in various frameworks and tools such as React.js, Node.js, Express.js, Next.js, TypeScript, Tailwind, Bootstrap, MongoDB, MySQL, Oracle, PostgreSQL, Neo4j, Figma, AWS, Cypress, Docker, Git, JUnit, Powershell, and Heroku.
+💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including Java, Python, JavaScript, HTML/CSS, and C++. I am skilled in frameworks and tools such as React.js, Node.js, Express.js, MongoDB, and Docker.
 
-🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella, exploring the outdoors, and spending time with cats. 🐈🥰
+🎵 Outside the tech world, I enjoy a variety of hobbies including A Cappella, exploring the outdoors, and spending time with cats. 🐈🥰 
+
+🌱 I deeply appreciate everthing I have, the love and support from family and friends, the beauty of nature, music, movies, and the gift of life itself! 👭🌍🎶🎬💖
 
 ---
 
