@@ -26,6 +26,7 @@
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
 
+🔗 Check out my personal portfolio [here](https://zairuiy-coding.github.io) to see more of my work and projects. 🌐
 
 🎵 Outside the tech world, I enjoy a variety of hobbies, including A Cappella, exploring the outdoors⛰️, photography📷, and spending time with cats. 🐈🥰 
 
@@ -148,5 +149,8 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 <p align="left">
   <a href="https://linkedin.com/in/zairui-yang" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://zairuiy-coding.github.io" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
