@@ -22,7 +22,7 @@
 
 🎓 Hi, my name is Zairui Yang. I'm a passionate **software engineer** with a solid foundation in **web and full-stack development**. I am currently pursuing my MSc in **Computer and Information Technology** at **the University of Pennsylvania** (graduating in May 2025), where I have excelled in courses such as **Programming for the Web**, **Data Structures and Software Design**, and **Database & Information Systems**. 📚
 
-💼 My experience includes implementing high-frequency live crypto-trading data systems at **SciFeCap**, developing efficient **Django APIs**, and leading front-end development projects at **Geward**. I am dedicated to creating efficient, scalable, and user-friendly software solutions. 🚀 My goal is to contribute to innovative projects that make a real impact. 🌟
+💼 My experience includes implementing high-frequency live crypto-trading data systems at **SciFeCap**, developing efficient **Fast APIss**, and leading front-end development projects at **Geward**. I am dedicated to creating efficient, scalable, and user-friendly software solutions. 🚀 My goal is to contribute to innovative projects that make a real impact. 🌟
 
 💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
 
