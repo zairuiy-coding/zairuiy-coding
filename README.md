@@ -1,8 +1,9 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
-      <h1 align="center">Hi 👋, I'm Zairui Yang</h1>
-      <h3 align="center">Aspiring Software Engineer from the University of Pennsylvania</h3>
+      <h1 align="center">Hi 👋, I'm Zairui (Katherine) Yang</h1>
+      <h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
+      <h4 align="center">Golang | React | Distributed Systems | Data Engineering</h4>
     </td>
     <td style="border: none; padding: 0;">
       <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
