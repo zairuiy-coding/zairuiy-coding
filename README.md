@@ -21,22 +21,21 @@
 
 🎓 Hi, my name is **Zairui (Katherine) Yang**, and I’m a passionate **software engineer** with a focus on **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
 
-💼 **Recent Work Experience:**
-- **Tesla (Factory Software Team)** → Migrated a legacy **.NET ETL system** to **Golang & React**, enhancing **scalability for 200+ factory processes** and streamlining database performance.
-- **SciFeCap (Quant Trading)** → Built a **WebSocket-based high-frequency trading data pipeline**, reducing database load by **40%** and optimizing **real-time financial signals**.
+### 💼 Recent Experience:
+- **Tesla (Factory Software Team)** → Migrated a **legacy .NET ETL system** to **Golang & React**, optimizing **scalability for 200+ factory processes** and improving system efficiency.
+- **SciFeCap (Quant Trading)** → Built a **WebSocket-based real-time data pipeline**, reducing **database load by 40%** and enhancing financial signal processing.
 - **MCIT Slack Bot** → Developed an **AI-powered alumni search tool** integrating **OpenAI API, Redis, and Celery**, scaling to **300+ users**.
 
-🔗 Explore my **[Portfolio](https://zairuiy-coding.github.io)** to see my **projects and contributions**.
+🔗 Explore my **[Portfolio](https://zairuiy-coding.github.io)** for more details on my **projects and contributions**.  
 
-🎵 Outside of coding, I enjoy **A Cappella**, **hiking**, **photography**, and spending time with **cats**. 🐈🥰
+### 💻 Tech Stack:
+I have hands-on experience with **Golang, Python, Java, C++, JavaScript, and SQL**, and I work extensively with **React.js, Next.js, Node.js, PostgreSQL, MongoDB, Kafka, Docker, and AWS**. My passion lies in **building scalable, high-performance systems** and **tackling complex engineering challenges**.
 
-💻 I enjoy contributing to open source projects and have experience with a variety of technologies, including **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **C++**. I am skilled in frameworks and tools such as **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Docker**. I love building intricate systems and continuously improving them. Learning new things and exploring more areas is an exciting journey for me. 🌍
+### 🎵 Outside of Tech:
+I love **A Cappella 🎤, photography 📷, traveling & the outdoors ⛰️, surfing 🏄‍♀️, and spending time with cats 🐈**.  
 
-🔗 Check out my personal portfolio [here](https://zairuiy-coding.github.io) to see more of my work and projects. 🌐
+🌱 *"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."*
 
-🎵 Outside of coding, I enjoy **A Cappella 🎤, photography 📷, traveling & outdoors ⛰️, surfing 🏄‍♀️, and spending time with cats 🐈**.  
-
-🌱 "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."
 ---
 
 ## 🏆 Achievements
