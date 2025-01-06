@@ -3,7 +3,6 @@
     <td style="border: none; padding: 0;">
       <h1 align="center">Hi 👋, I'm Zairui (Katherine) Yang</h1>
       <h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
-      <h4 align="center">Golang | React | Distributed Systems | Data Engineering</h4>
     </td>
     <td style="border: none; padding: 0;">
       <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
@@ -18,9 +17,10 @@
 </p>
 
 ---
+
 ## 🚀 About Me
 
-🎓 Hi, my name is **Zairui (Katherine) Yang**, and I’m a passionate **software engineer** with a focus on **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
+🎓 Hi, my name is **Zairui (Katherine) Yang**, and I’m a passionate **software engineer** specializing in **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
 
 ### 💼 Recent Experience:
 - **Tesla (Factory Software Team)** → Migrated a **legacy .NET ETL system** to **Golang & React**, optimizing **scalability for 200+ factory processes** and improving system efficiency.
@@ -53,11 +53,20 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
 ### Languages
 <p align="left"> 
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go" /> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+</p>
+
+### Backend & Data Engineering
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
 ### Frontend
@@ -65,40 +74,23 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zairui-ya
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
-</p>
-
-### Backend & Data Engineering
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 ### Databases
 <p align="left"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 ### Cloud & DevOps
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
 </p>
-
-### Testing & QA
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> 
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-</p>
-
 
 ---
 
@@ -112,7 +104,7 @@ Check out my pinned repos for the projects I build. (list continuously updating)
 
 ### ☕ Java Projects
 - **[FindFlora](https://github.com/zairuiy-coding/FindFlora)**: A Java-based application providing personalized flower recommendations using machine learning.
-- 
+
 ### 🚀 Hackathon Winners
 - **[Task2Calendar](https://github.com/zairuiy-coding/mcit_hackathon_TaskToCalendar)**: A Chrome Extension to clip assignment tasks from web pages directly to your calendar.
 - **[TimeToGoal](https://github.com/zairuiy-coding/TimeToGoal)**: An iOS app combining short-term task planning and long-term goal tracking to help users stay focused.
