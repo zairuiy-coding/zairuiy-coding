@@ -19,7 +19,7 @@
 ---
 ## 🚀 About Me
 
-🎓 Hi, my name is **Zairui Yang**, and I’m a passionate **software engineer** with a focus on **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
+🎓 Hi, my name is **Zairui (Katherine) Yang**, and I’m a passionate **software engineer** with a focus on **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
 
 💼 **Recent Work Experience:**
 - **Tesla (Factory Software Team)** → Migrated a legacy **.NET ETL system** to **Golang & React**, enhancing **scalability for 200+ factory processes** and streamlining database performance.
@@ -36,7 +36,7 @@
 
 🎵 Outside of coding, I enjoy **A Cappella 🎤, photography 📷, traveling & outdoors ⛰️, surfing 🏄‍♀️, and spending time with cats 🐈**.  
 
-🌱 **"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."**  
+🌱 "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."
 ---
 
 ## 🏆 Achievements
