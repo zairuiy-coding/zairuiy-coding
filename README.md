@@ -33,7 +33,7 @@
 I have hands-on experience with **Golang, Python, Java, C++, JavaScript, and SQL**, and I work extensively with **React.js, Next.js, Node.js, PostgreSQL, MongoDB, Kafka, Docker, and AWS**. My passion lies in **building scalable, high-performance systems** and **tackling complex engineering challenges**.
 
 ### 🎵 Outside of Tech:
-I love **A Cappella 🎤, photography 📷, traveling & the outdoors ⛰️, surfing 🏄‍♀️, and spending time with cats 🐈**.  
+I love **A Cappella 🎤, photography 📷, cooking 🍳,traveling & the outdoors ⛰️, and spending time with cats 🐈**.  
 
 🌊 *"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."*
 
