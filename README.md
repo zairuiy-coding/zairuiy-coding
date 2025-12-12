@@ -2,7 +2,7 @@
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
       <h1 align="center">Hi 👋, I'm Zairui (Katherine) Yang</h1>
-      <h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
+      <h3 align="center">Software Engineer | Backend & Distributed Systems</h3>
     </td>
     <td style="border: none; padding: 0;">
       <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200" />
@@ -20,9 +20,13 @@
 
 ## 🚀 About Me
 
-🎓 Hi, my name is **Zairui (Katherine) Yang**, and I’m a passionate **software engineer** specializing in **backend systems, data engineering, and full-stack development**. I’m currently pursuing my **MSc in Computer and Information Technology at the University of Pennsylvania**, graduating in **May 2025**.
+🎓 I'm **Katherine**, a software engineer focused on **backend infrastructure, distributed systems, and high-performance data pipelines**.  
+I enjoy building systems that are **scalable, reliable, and production-ready**.
+
 
 ### 💼 Recent Experience:
+- **PayPal – JunoDB (Distributed Key-Value Store)**  
+  Improving client library reliability, scaling high-throughput counters, and supporting infra modernization (Kubernetes, Datadog, capacity modeling).
 - **Tesla (Factory Software Team)** → Migrated a **legacy .NET ETL system** to **Golang & React**, optimizing **scalability for 200+ factory processes** and improving system efficiency.
 - **SciFeCap (Quant Trading)** → Built a **WebSocket-based real-time data pipeline**, reducing **database load by 40%** and enhancing financial signal processing.
 - **MCIT Slack Bot** → Developed an **AI-powered alumni search tool** integrating **OpenAI API, Redis, and Celery**, scaling to **300+ users**.
